@@ -1,0 +1,24 @@
+_repo: The-MercenaryA-Tale-of-The-Thirty-Years-War_40567
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40567-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Eccott, W. J.
+    gutenberg_agent_id: '40703'
+    url: http://www.gutenberg.org/2009/agents/40703
+description: ''
+gutenberg_issued: '2012-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Thirty Years'' War, 1618-1648 -- Fiction'
+title: 'The Mercenary: A Tale of The Thirty Years'' War'
+url: http://www.gutenberg.org/ebooks/40567
